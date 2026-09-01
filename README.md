@@ -75,4 +75,6 @@ Ces règles ont été implémentées via des ACL étendues (numérotées 100, 10
 
 ## 👤 Auteur
 
+## ALAYE Odilon Alabi 
+
 Lab réalisé dans le cadre d'un exercice pratique d'administration réseau (DHCP, OSPF, ACL, segmentation multi-sites).
